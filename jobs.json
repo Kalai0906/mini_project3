@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "title": "Frontend Developer",
+    "company": "TechCorp",
+    "salary": "$70,000 - $90,000",
+    "type": "Full-Time",
+    "location": "Remote",
+    "description": "We are looking for a skilled Frontend Developer to join our team. You will be responsible for building user-facing web applications using modern JavaScript frameworks. Experience with React, HTML5, CSS3, and responsive design is required."
+  },
+  {
+    "id": 2,
+    "title": "UI/UX Designer",
+    "company": "DesignStudio",
+    "salary": "$60,000 - $80,000",
+    "type": "Full-Time",
+    "location": "On-site",
+    "description": "Join our creative team as a UI/UX Designer. You'll create intuitive and visually appealing user interfaces for web and mobile applications. Proficiency in Figma, Adobe Creative Suite, and user research methodologies is essential."
+  },
+  {
+    "id": 3,
+    "title": "Backend Developer",
+    "company": "DataSolutions",
+    "salary": "$80,000 - $100,000",
+    "type": "Full-Time",
+    "location": "Remote",
+    "description": "We need a Backend Developer to build and maintain server-side applications. Experience with Node.js, Python, databases, and API development is required. You'll work on scalable systems that handle millions of requests."
+  },
+  {
+    "id": 4,
+    "title": "Marketing Specialist",
+    "company": "GrowthCo",
+    "salary": "$50,000 - $65,000",
+    "type": "Part-Time",
+    "location": "Remote",
+    "description": "Looking for a Marketing Specialist to develop and execute marketing campaigns. Experience with digital marketing, social media, content creation, and analytics tools is preferred. Help us grow our brand presence."
+  },
+  {
+    "id": 5,
+    "title": "Data Analyst",
+    "company": "Analytics Inc",
+    "salary": "$65,000 - $85,000",
+    "type": "Full-Time",
+    "location": "On-site",
+    "description": "Join our data team as a Data Analyst. You'll analyze large datasets to provide business insights and create reports. Strong skills in SQL, Python, Excel, and data visualization tools like Tableau are required."
+  },
+  {
+    "id": 6,
+    "title": "Project Manager",
+    "company": "ManagePro",
+    "salary": "$75,000 - $95,000",
+    "type": "Full-Time",
+    "location": "Remote",
+    "description": "We're seeking an experienced Project Manager to lead cross-functional teams and deliver projects on time. PMP certification preferred. You'll coordinate resources, manage timelines, and ensure project success."
+  }
+]
